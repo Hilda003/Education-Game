@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AudioSetting.unity
     guid: 83adab1a3241c5642890befca9b59ace
+  - enabled: 1
+    path: Assets/Scenes/classroom.unity
+    guid: 23cf4d38a37ed064c997a0fecaa73df1
+  - enabled: 1
+    path: Assets/Scenes/Goals.unity
+    guid: 752713c33e38dfa4ba30cf79f3fe8e3e
   m_configObjects: {}
